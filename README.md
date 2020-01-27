@@ -35,7 +35,7 @@ GovSim strives to be an accurate simulation of the United States government. Eac
 - Political favors
 - Press
 - Events out of Congress's control (ex. declarations of war, stock market)
-- Overturning vetos?
+- Overturning vetoes?
 - Abandon party?
 - Affairs and "office politics"
 ### Re-election
@@ -49,7 +49,7 @@ GovSim strives to be an accurate simulation of the United States government. Eac
 - Cash in political favors
 ### Congress
 - Repeat
-- More senority/respect
+- More seniority/respect
 - No term limit
 
 ### The game ends when...
@@ -62,7 +62,7 @@ GovSim strives to be an accurate simulation of the United States government. Eac
 ### Begin
 - Section is skipped if coming from **Legislative Mode**
 - Select a political party and a state
-- Select an initial position (ex. mayor, state legislator, lawyer)
+- Select an initial position (ex. mayor, state legislator, lawyer, congressman)
 - Select primary personal values
 ### Campaign
 - Longer than legislative
@@ -86,6 +86,14 @@ GovSim strives to be an accurate simulation of the United States government. Eac
  - Lose? Back to initial role
  - Win? Continue
  ### Term
+ #### Pressures
+ - Re-electability
+ - Constitutionality
+ - Congressional approval
+ - Financial backers
+ - Public view
+ - Party values
+ - Personal values
  #### Cabinet
  - Must choose
  - Political favors?
@@ -100,7 +108,7 @@ GovSim strives to be an accurate simulation of the United States government. Eac
  - People's approval
  - Party values
  - Personal values
- #### Execuative Orders
+ #### Executive Orders
  - How often?
  - What about?
  - Similar to bills ^^
