@@ -1,4 +1,5 @@
 # GovSim -- A simulator for the US Government
+GovSim strives to be an accurate simulation of the United States government. Each member of congress has their own set of opinions and values, and what happens in gameplay impacts that. Changes in opinion are based on interactions and values. Theoretically, GovSim could be run without a player and conduct business all on its own.
 
 ## Legislative Mode
 ### Begin
