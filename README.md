@@ -56,3 +56,83 @@
 2) Election is lost
 3) Career is ruined (political suicide)
 4) Presidential run is announced (moves to **Presidential Mode**)
+
+## Presidential Mode
+### Begin
+- Section is skipped if coming from **Legislative Mode**
+- Select a political party and a state
+- Select an initial position (ex. mayor, state legislator, lawyer)
+- Select primary personal values
+### Campaign
+- Longer than legislative
+- Swing states
+- Political endorsements
+- Donors
+- Debates
+- Primaries
+- Against an incumbent? (Chosen randomly)
+  - Decreases chances
+- Advertising
+- Press
+- Foreign governments
+  - Praise
+  - Relations
+  - Meddling
+ ### Election
+ - Electoral college
+ - Popular vote
+ - Exit polls
+ - Lose? Back to initial role
+ - Win? Continue
+ ### Term
+ #### Cabinet
+ - Must choose
+ - Political favors?
+ - Actual skill/advice?
+ - Yes-men?
+ #### Programs
+ - Based on values
+ - Also public image
+ #### Bills
+ - Sign or veto
+ - Political favors
+ - People's approval
+ - Party values
+ - Personal values
+ #### Execuative Orders
+ - How often?
+ - What about?
+ - Similar to bills ^^
+ #### Foreign Policy
+ - Trade
+ - Aid
+ - Relations
+ - Summits
+ - Consider home approval
+ - Political favors?
+ #### Investigation
+ - Special counsel and/or FBI
+ - Could lead to impeachment
+ - Based on past actions
+  - Could be false
+ #### Federal Judges
+ - Can nominate
+ - Congress-approved
+ - Supreme court?
+ #### Midterms
+ - Endorsements
+ - Presidential actions impact outcome
+ ### Re-election
+ - No primaries
+ - Almost impossible to lose
+ - Swing states
+ - Existing base
+ - Actions impact outcome
+ - Lose? Game over
+ - Win? Another term
+ 
+ ### Game ends when...
+ 1) Player ends game (resignation)
+ 2) Election is lost
+ 3) Both terms are finished
+ 4) Impeached and convicted
